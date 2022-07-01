@@ -91,7 +91,7 @@ body {
 
 .content {
     display: grid;
-    height: 87%;
+    height: 91%;
     grid-template-columns: repeat(2, 1fr);
     grid-auto-rows: 1fr 50px 50px;
     grid-template-areas:
